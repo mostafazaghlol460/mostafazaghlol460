@@ -1,6 +1,6 @@
-### Hi there 👋, I 'm Mostafa Zaghloul 
+### Hi there 👋, my name is Mostafa Zaghloul 
 #### I am Dot Net Developer (FullStack)
-![I am Dot Net Developer (FullStack)]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1C1fcovpR0LaFP9P0cSmY7acqCvW5OJSA/view?usp=sharing))
+![I am Dot Net Developer (FullStack)](https://drive.google.com/file/d/1C1fcovpR0LaFP9P0cSmY7acqCvW5OJSA/view?usp=sharing)
 
 I have experience in that field for like 2 years and i graduated from iti , and i have training in pioneer solution for 3 months 
 
