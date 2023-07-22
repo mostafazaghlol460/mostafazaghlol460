@@ -11,5 +11,5 @@ Skills:   HTML / CSS /Js / TS/ Angular/ C# /ADO/Auto Mapper / EF / . Net Framewo
 - 🌱 I’m currently learning Signal R 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mostafa-zaghlol//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafa-zaghlol)]  
 
